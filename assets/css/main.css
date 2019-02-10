@@ -4107,10 +4107,6 @@ input, select, textarea {
 
 	}
 
-	/* #four::before {
-		background-image: url(data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' w…ygon points='0,100 100,0 100,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E);
-	} */
-
 	#four {
 		background-color: #2e3141; 
 	}
