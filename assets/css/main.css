@@ -4119,3 +4119,21 @@ input, select, textarea {
 		#footer-copyright{
 			margin-top: 0 !important;
 		}
+	
+	.link-container-right {
+		display: flex;
+		justify-content: flex-end;
+	}
+
+	.link-container-right a {
+		margin-left: 40px !important;
+	}
+
+	.link-container-left {
+		display: flex;
+		justify-content: flex-start;
+	}
+
+	.link-container-left a {
+		margin-right: 40px !important;
+	}
